@@ -13,6 +13,9 @@ make px4_sitl gazebo-classic
 터미널3
 
 cd ~/ws_offboard_control/src/
-#ros2 sourcing
+
+source /opt/ros/foxy/setup.bash
+
+source install/local_setup.bash
 
 ros2 run px4_ros_com offboard_control
