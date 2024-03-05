@@ -12,13 +12,6 @@ make px4_sitl gazebo-classic
 
 터미널3
 
-cd ~/ws_sensor_combined/
-#ros2 sourcing
-
-ros2 launch px4_ros_com sensor_combined_listener.launch.py
-
-터미널4
-
 cd ~/ws_offboard_control/src/
 #ros2 sourcing
 
