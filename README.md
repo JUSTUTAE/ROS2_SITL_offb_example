@@ -12,7 +12,7 @@ make px4_sitl gazebo-classic
 
 터미널3
 
-cd ~/ws_offboard_control/src/
+cd ~/ws_offboard_control/
 
 source /opt/ros/foxy/setup.bash
 
